@@ -1,2 +1,4 @@
-select * from teste
-go
+USE MASTER
+
+SELECT * FROM SYS.TESTE
+GO
